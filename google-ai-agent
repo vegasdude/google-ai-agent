@@ -1,0 +1,6 @@
+google-ai-agent/
+│
+├── agent.py              # main agent code
+├── requirements.txt      # dependencies
+├── README.md             # repo description
+└── .gitignore            # optional

@@ -1,0 +1,8 @@
+ai-agent/
+│
+├── agent.py           # main AI agent code
+├── config.py          # configuration and API keys
+├── requirements.txt   # Python dependencies (like openai, google-generativeai)
+├── README.md          # project description
+└── .github/
+    └── workflows/     # GitHub Actions automation (optional)
